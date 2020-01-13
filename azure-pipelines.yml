@@ -15,5 +15,5 @@ steps:
 
 - script: |
     echo Oh Hello
-    echo I didn't expect to see you here
+    echo I did not expect to see you here
   displayName: 'Run a multi-line script'
