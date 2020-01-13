@@ -18,7 +18,7 @@ steps:
     echo I did not expect to see you here
   displayName: 'Run a multi-line script'
 
-- script: hello.sh
+- script: sh hello.sh
   displayName: 'Run project script'
 
 - task: BatchScript@1
